@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lucky Monkey Panel</string>
+
+
+    <string name="lucky_monkey_title">Wheel of Fortune</string>
+    <string name="lucky_monkey_times_left">times left</string>
+    <string name="lucky_monkey_fortune_list">Check out your fortune list</string>
+</resources>
