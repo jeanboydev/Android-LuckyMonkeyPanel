@@ -47,8 +47,6 @@ public class LuckyMonkeyPanelView extends FrameLayout {
         super(context, attrs, defStyleAttr);
         inflate(context, R.layout.view_lucky_mokey_panel, this);
         setupView();
-
-
     }
 
     @Override
@@ -60,7 +58,6 @@ public class LuckyMonkeyPanelView extends FrameLayout {
     @Override
     protected void onDetachedFromWindow() {
         stopMarquee();
-        isGameRunning = false;
         super.onDetachedFromWindow();
     }
 
@@ -88,6 +85,8 @@ public class LuckyMonkeyPanelView extends FrameLayout {
 
     private void stopMarquee() {
         isMarqueeRunning = false;
+        isGameRunning = false;
+        isTryToStop = false;
     }
 
     private void startMarquee() {
