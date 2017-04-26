@@ -22,7 +22,7 @@ public class LuckyMonkeyPanelView extends FrameLayout {
             itemView4, itemView6,
             itemView7, itemView8, itemView9;
 
-    private PanelItemView[] itemViewArr = new PanelItemView[8];
+    private ItemView[] itemViewArr = new ItemView[8];
     private int currentIndex = 0;
     private int currentTotal = 0;
     private int stayIndex = 0;

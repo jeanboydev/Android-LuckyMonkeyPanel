@@ -10,7 +10,7 @@ import android.widget.FrameLayout;
  * Created by jeanboy on 2017/4/20.
  */
 
-public class PanelItemView extends FrameLayout {
+public class PanelItemView extends FrameLayout implements ItemView{
 
     private View overlay;
 
@@ -28,6 +28,7 @@ public class PanelItemView extends FrameLayout {
         overlay = findViewById(R.id.overlay);
     }
 
+    @Override
     public void setFocus(boolean isFocused) {
         if (overlay != null) {
             overlay.setVisibility(isFocused ? INVISIBLE : VISIBLE);
