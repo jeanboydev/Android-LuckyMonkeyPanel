@@ -7,8 +7,11 @@
 
 <img src="https://github.com/jeanboydev/Android-LuckyMonkeyPanel/blob/master/resources/Screenshot_20170426-113157.jpg" width="360px" height="640px" />
 
+<img src="https://github.com/jeanboydev/Android-LuckyMonkeyPanel/blob/master/resources/lucky.gif" width="360px" height="640px" />
 
-[动态效果演示](https://github.com/jeanboydev/Android-LuckyMonkeyPanel/blob/master/resources/device-2017-04-26-112438.mp4)
+- gif比较模糊可以看下视频演示
+
+[视频演示效果](https://github.com/jeanboydev/Android-LuckyMonkeyPanel/blob/master/resources/device-2017-04-26-112438.mp4)
 
 
 ## 使用 ##
