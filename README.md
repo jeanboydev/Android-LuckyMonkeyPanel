@@ -5,6 +5,8 @@
 ## 简介 ##
 幸运转盘，类似老虎机的抽奖活动效果。
 
+> 圆形转盘详见：https://github.com/jeanboydev/Android-WheelFortune
+
 ## 截图 ##
 
 <img src="https://github.com/jeanboydev/Android-LuckyMonkeyPanel/blob/master/resources/Screenshot_20170426-113157.jpg" width="360px" height="640px" />	<img src="https://github.com/jeanboydev/Android-LuckyMonkeyPanel/blob/master/resources/lucky.gif" width="360px" height="640px" />
